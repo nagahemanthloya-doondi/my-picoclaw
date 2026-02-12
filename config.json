@@ -1,0 +1,19 @@
+{
+  "agents": {
+    "defaults": {
+      "model": "gemini-2.5-flash-lite"
+    }
+  },
+  "providers": {
+    "gemini": {
+      "api_key": "AIzaSyAukk-aa4ja-VIwG-Ki0oq0z8Tq5lHUuP4"
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "token": "8181339028:AAG-Ha--8ci5oP2uO6krxDwJrGNuryu0FC0",
+      "allowFrom": ["1865182973"]
+    }
+  }
+}
